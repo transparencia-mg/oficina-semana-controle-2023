@@ -1,8 +1,12 @@
 # roteiro oficina
 
-## intro (2 slides - máx. 10min)
+![image](https://user-images.githubusercontent.com/52294411/235708922-ea9682a8-5f30-41c9-b611-d1a5a6e5b9a9.png)
 
-- boas vindas, previsão de tempo e etapas da oficina, avisar da gravação
+## intro (4 slides - máx. 10min)
+
+1
+
+- boas vindas, previsão de tempo (1h30) e etapas da oficina (3), avisar da gravação
 
 - início gravação
 
@@ -22,7 +26,7 @@
 	- vamos fazer, portanto, a simulação de um fluxo de publicação no CKAN
 
 - - - 
-
+2
 ![image](https://user-images.githubusercontent.com/52294411/235702265-7da1c054-1d92-485f-b4ea-89279cec4057.png)
 
 https://github.com/ckan/ckan
@@ -36,11 +40,11 @@ https://github.com/ckan/ckan
 	
 	- desenvolvida pela OKF e mantida pela comunidade (repo aberto no github),
 	
+- - - 
+3
 ![image](https://user-images.githubusercontent.com/52294411/235703452-f20606ed-3db3-45cb-9248-3fc779d5a0c4.png)
 
 https://ckan.org/blog/the-ckan-30-team-is-formed-welcome-to-dragan-and-svetozar
-
-- - - 
 
 - sujeita a manutenções e evoluções periódicas
 		
@@ -57,7 +61,7 @@ https://ckan.org/blog/the-ckan-30-team-is-formed-welcome-to-dragan-and-svetozar
 	- prevemos subir esse ambiente que vamos usar para o PdA em julho (?), juntamente com a agregação de dúvidas e observaçoes no Manual
 	
 - - - 
-
+4
 ![image](https://user-images.githubusercontent.com/52294411/235704328-972bc2b7-bae7-43f2-aa09-31a6dd5f2378.png)
 
 ## fluxo publicação (1 slide + mão-na-massa - 50min)
@@ -75,8 +79,8 @@ https://ckan.org/blog/the-ckan-30-team-is-formed-welcome-to-dragan-and-svetozar
 	- a oficina é instrumental e visa mostrar as funcionalidades da ferramenta/plataforma, mas ela não exaure nossas responsabilidades de promoção de transparência enquanto agentes públicos (preparações e decisões são necessárias e variam conforme órgão e base de dado - i. e. processo de escolha das bases, limpeza, restrição de informações pessoais/sensíveis, atribuição de licenças e uso de formatos abertos - observações ao final da simulação de um fluxo de publicação no CKAN, correlacionando com os principais requisitos legais vigentes)
 
 - - -
-
-- login
+5
+- login - http://projetockan.cge.mg.gov.br/organization/oficina-semana-mineira-de-controle
 
 - navegação básica (menu superior e lateral)
 
@@ -171,17 +175,19 @@ https://ckan.org/blog/the-ckan-30-team-is-formed-welcome-to-dragan-and-svetozar
 
 ![image](https://user-images.githubusercontent.com/52294411/235706596-7d9b1db7-26e7-4d8e-afa1-1b89a3e561e6.png)
 
+- - - 
+
 - sobre atendimento aos requisitos legais:
 
 ![image](https://user-images.githubusercontent.com/52294411/235706961-51f46cf8-9c15-46b9-9be0-a50cead198c2.png)
 https://andrelamor.github.io/manual-abertura-2023-3/0.1/1.%20Dados%20Abertos%2C%20contexto%20e%20pol%C3%ADticas/001_normas_legais/
 
-	- o plugin ainda é matéria de testes, e a oficina também serve para captar dúvidas e necessidades de ajustes
+- o plugin ainda é matéria de testes, e a oficina também serve para captar dúvidas e necessidades de ajustes
 
-	- a oficina ficará gravada para consulta e prática
+- a oficina ficará gravada para consulta e prática
 
-	- também temos uma versão em elaboração do Manual de Dados Abertos, para consulta e aberta para observações e sugestões
+- também temos uma versão em elaboração do Manual de Dados Abertos, para consulta e aberta para observações e sugestões
 
-	- prevemos subir esse ambiente que vamos usar para o PdA em julho (?), juntamente com a agregação de dúvidas e observaçoes no Manual
+- prevemos subir esse ambiente que vamos usar para o PdA em julho (?), juntamente com a agregação de dúvidas e observaçoes no Manual
 
 ## tira-dúvidas (30min)
