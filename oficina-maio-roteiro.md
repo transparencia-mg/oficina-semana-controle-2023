@@ -1,12 +1,16 @@
 # roteiro oficina
 
-## intro (máx. 10min)
+## intro (2 slides - máx. 10min)
 
 - boas vindas, previsão de tempo e etapas da oficina, avisar da gravação
 
 - início gravação
 
 - apresentações pessoais
+
+- - - 
+
+![image](https://user-images.githubusercontent.com/52294411/235705786-b506164d-08d3-40ba-aec2-e1cc85d51607.png)
 
 - contexto geral de ampliação da disponibilização de dados de interesse coletivo e geral
 	- relançamento do PdA em 2020
@@ -17,6 +21,12 @@
 	
 	- vamos fazer, portanto, a simulação de um fluxo de publicação no CKAN
 
+- - - 
+
+![image](https://user-images.githubusercontent.com/52294411/235702265-7da1c054-1d92-485f-b4ea-89279cec4057.png)
+
+https://github.com/ckan/ckan
+
 - CKAN é 
 	- plataforma de dados abertos governamentais mais utilizada no mundo
 	
@@ -26,22 +36,31 @@
 	
 	- desenvolvida pela OKF e mantida pela comunidade (repo aberto no github),
 	
-	- sujeita a manutenções e evoluções periódicas
-		- a última delas era prevista para out/22 e somente foi publicada em jan/23
-	
-	- vamos usar um ambiente básico da última versão 2.10 publicada em janeiro, acrescida de um plug-in específico desenvolvido recentemente para facilitar a publicação e uso dos dados
+![image](https://user-images.githubusercontent.com/52294411/235703452-f20606ed-3db3-45cb-9248-3fc779d5a0c4.png)
+
+https://ckan.org/blog/the-ckan-30-team-is-formed-welcome-to-dragan-and-svetozar
+
+- - - 
+
+- sujeita a manutenções e evoluções periódicas
 		
-		- o plugin ainda é matéria de testes, e a oficina também serve para captar dúvidas e necessidades de ajustes
+	- a última delas era prevista para out/22 e somente foi publicada em jan/23
 
-		- a oficina ficará gravada para consulta e prática
+- vamos usar um ambiente básico da última versão 2.10 publicada em janeiro, acrescida de um plug-in específico desenvolvido recentemente para facilitar a publicação e uso dos dados
+		
+	- o plugin ainda é matéria de testes, e a oficina também serve para captar dúvidas e necessidades de ajustes
 
-		- também temos uma versão em elaboração do Manual de Dados Abertos, para consulta e aberta para observações e sugestões
+	- a oficina ficará gravada para consulta e prática
 
-		- prevemos subir esse ambiente que vamos usar para o PdA em julho (?), juntamente com a agregação de dúvidas e observaçoes no Manual
+	- também temos uma versão em elaboração do Manual de Dados Abertos, para consulta e aberta para observações e sugestões
 
-	- a oficina é instrumental e visa mostrar as funcionalidades da ferramenta/plataforma, mas ela não exaure nossas responsabilidades de promoção de transparência enquanto agentes públicos (preparações e decisões são necessárias e variam conforme órgão e base de dado - i. e. processo de escolha das bases, limpeza, restrição de informações pessoais/sensíveis, atribuição de licenças e uso de formatos abertos - observações ao final da simulação de um fluxo de publicação no CKAN, correlacionando com os principais requisitos legais vigentes)
+	- prevemos subir esse ambiente que vamos usar para o PdA em julho (?), juntamente com a agregação de dúvidas e observaçoes no Manual
+	
+- - - 
 
-## fluxo publicação (50min)
+![image](https://user-images.githubusercontent.com/52294411/235704328-972bc2b7-bae7-43f2-aa09-31a6dd5f2378.png)
+
+## fluxo publicação (1 slide + mão-na-massa - 50min)
 
 - etapas do fluxo: 
 	- escolha das bases, 
@@ -52,7 +71,10 @@
 	- uso, reuso, feedbacks (mecanismos de transparência passiva)
 	- novas versões do conjunto
 
-	- nessa oficina, vamos fazer as etapas de documentação, validação e publicação
+	- nessa oficina, vamos fazer as etapas de documentação, validação e publicação 
+	- a oficina é instrumental e visa mostrar as funcionalidades da ferramenta/plataforma, mas ela não exaure nossas responsabilidades de promoção de transparência enquanto agentes públicos (preparações e decisões são necessárias e variam conforme órgão e base de dado - i. e. processo de escolha das bases, limpeza, restrição de informações pessoais/sensíveis, atribuição de licenças e uso de formatos abertos - observações ao final da simulação de um fluxo de publicação no CKAN, correlacionando com os principais requisitos legais vigentes)
+
+- - -
 
 - login
 
@@ -141,18 +163,25 @@
 
 	- (confirmar alcance de baixar e manipular dados com ferramentas CLI a partir do API show) 
 
-- considerações
+- - - 
 
-	- sobre atendimento aos requisitos legais:
+## considerações (2 slides)
 
-https://andrelamor.github.io/manual-abertura-2023-3/0.1/1.%20Dados%20Abertos%2C%20contexto%20e%20pol%C3%ADticas/002_principios_diretrizes/#aplicacao-dos-pricipios-e-normativos-no-portal-de-dados-abertos-de-mgpda
+- em qual patamar estamos na escala de qualidade dos dados 
 
-		- o plugin ainda é matéria de testes, e a oficina também serve para captar dúvidas e necessidades de ajustes
+![image](https://user-images.githubusercontent.com/52294411/235706596-7d9b1db7-26e7-4d8e-afa1-1b89a3e561e6.png)
 
-		- a oficina ficará gravada para consulta e prática
+- sobre atendimento aos requisitos legais:
 
-		- também temos uma versão em elaboração do Manual de Dados Abertos, para consulta e aberta para observações e sugestões
+![image](https://user-images.githubusercontent.com/52294411/235706961-51f46cf8-9c15-46b9-9be0-a50cead198c2.png)
+https://andrelamor.github.io/manual-abertura-2023-3/0.1/1.%20Dados%20Abertos%2C%20contexto%20e%20pol%C3%ADticas/001_normas_legais/
 
-		- prevemos subir esse ambiente que vamos usar para o PdA em julho (?), juntamente com a agregação de dúvidas e observaçoes no Manual
+	- o plugin ainda é matéria de testes, e a oficina também serve para captar dúvidas e necessidades de ajustes
+
+	- a oficina ficará gravada para consulta e prática
+
+	- também temos uma versão em elaboração do Manual de Dados Abertos, para consulta e aberta para observações e sugestões
+
+	- prevemos subir esse ambiente que vamos usar para o PdA em julho (?), juntamente com a agregação de dúvidas e observaçoes no Manual
 
 ## tira-dúvidas (30min)
