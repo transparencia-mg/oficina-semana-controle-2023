@@ -36,9 +36,9 @@ https://github.com/ckan/ckan
 	
 	- ferramenta open source, 
 	
-	- baseada em postgress, solr, (python)
+	- baseada em postgreSQL, solr, (python)
 	
-	- desenvolvida pela OKF e mantida pela comunidade (repo aberto no github),
+	- desenvolvida pela OKF e mantida pela comunidade (repo aberto no GitHub),
 	
 - - - 
 3
@@ -125,7 +125,7 @@ https://ckan.org/blog/the-ckan-30-team-is-formed-welcome-to-dragan-and-svetozar
 
 		- formato arquivo (inferido automaticamente pela ferramenta)
 
-		- encoding arquivo (inferido automaticamente - recomendação forte de uso do utf-8, para leitura e parsemanto/interpretação por ferramentas de dados como pacotes do R e do python)
+		- encoding arquivo (inferido automaticamente - recomendação forte de uso do utf-8, para leitura e decodificação/interpretação por ferramentas de dados como pacotes do R e do python)
 
 	- metadados obrigatórios das colunas (explicar o por que disso - dicionários de dados legíveis por pessoas e por máquina/json gerados automaticamente permitirão a interpretação do conteúdo sintático dos dados; na primeira vez, parece ser mais repetitivo e toma um trabalho a mais, mas com potenciais benefícios para auxiliar os usuários, que inclui colegas da adm, ou outros poderes, e tb reduzir demandas repetidas - foco na garantia de um padrão de qualidade, interpretação adequada e aumento da possibilidade de uso do dado)
 
