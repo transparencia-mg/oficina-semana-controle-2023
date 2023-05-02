@@ -58,7 +58,7 @@ https://ckan.org/blog/the-ckan-30-team-is-formed-welcome-to-dragan-and-svetozar
 
 	- também temos uma versão em elaboração do Manual de Dados Abertos, para consulta e aberta para observações e sugestões
 
-	- prevemos subir esse ambiente que vamos usar para o PdA em julho (?), juntamente com a agregação de dúvidas e observaçoes no Manual
+	- PRAZO INTERNO prevemos subir esse ambiente que vamos usar para o PdA em julho (PRAZO A SER PACTUADO COM DTI), juntamente com a agregação de dúvidas e observaçoes no Manual EM https://transparencia-mg.github.io/manual-abertura/
 	
 - - - 
 4
@@ -84,36 +84,39 @@ https://ckan.org/blog/the-ckan-30-team-is-formed-welcome-to-dragan-and-svetozar
 
 - navegação básica (menu superior e lateral)
 
-- adicionar conjunto (30 nomes diferentes por turma - pensar na estratégia - sugestão é distribuir número por mesa para identificar, ex.: conjunto-teste-oficina-1, conjunto-teste-oficina-2)
+- adicionar conjunto (20 a 30 nomes diferentes por turma - sugestão é que cada um coloque primeiro nome e último sobrenome como título): telas e passo-a-passo em https://andrelamor.github.io/manual-abertura-2023-3/0.1/2.%20Ciclo%20de%20publica%C3%A7%C3%A3o%20de%20dados/008_conjunto/#criar-e-documentar-novo-conjunto-de-dados
 
 	- níveis de agregação: recursos > conjunto
 
 	- metadados obrigatórios do conjunto
 
-		- nome legível por máquina
+		- nome legível por máquina(URL), derivado do título
 
 		- título legível em português
 
-		- descrição
+		- descrição legível em português
 
-		- profile (datapackage ou package), segundo Frictionless Data
+		- organização (pré cadastrada pelo ADMIN)
+		
+		-  tipo (tabular ou not-tabular), segundo Frictionless Data
 
-		- URL
+		- licença (RESSALVA DA LICENÇA REPETIDA)
+		
+		- source
+		
+		- versão 
 
-		- organização (sugestão: criar uma organização específica para a oficina http://projetockan.cge.mg.gov.br/organization/oficina-semana-mineira-de-controle)
-
-		- contatos do publicador/mantenedor
-
-		- licença
-
-		- frequência de atualização
+		- contatos do publicador/autor/mantenedor (FORNECER EXEMPLO USUAL E DEIXAR LINK DA DOCUMENTAÇÃO)
+		
+		- frequência de atualização (resslava do idioma - vem da especificação, que visa interoperar com as ferramentas open source, como a maioria das ferramentas em SGBD)
 		
 		- palavras-chave
-		- versão
+		
+- se sair da página, clicar am ADMIN, no topo da página		
 
-- adicionar recurso
+- adicionar recurso: telas e passo-a-passo em https://andrelamor.github.io/manual-abertura-2023-3/0.1/2.%20Ciclo%20de%20publica%C3%A7%C3%A3o%20de%20dados/009_recurso/
 
-	- escolher arquivos salvos (link repo github: https://github.com/transparencia-mg/termos-parceria-contratos-gestao/tree/main/data)
+	- escolher arquivos salvos na pasta 'Oficina' dentro do Desktop de cada máquina (link repo github: https://github.com/transparencia-mg/termos-parceria-contratos-gestao/tree/main/data)
 
 	- metadados obrigatórios do recurso
 
@@ -121,27 +124,40 @@ https://ckan.org/blog/the-ckan-30-team-is-formed-welcome-to-dragan-and-svetozar
 
 		- título legível em português
 
-		- descrição
+		- descrição legível em português
 
 		- formato arquivo (inferido automaticamente pela ferramenta)
 
+		- tipo (tabular ou não tabular - inferido automaticamente pela ferramenta)
+
 		- encoding arquivo (inferido automaticamente - recomendação forte de uso do utf-8, para leitura e decodificação/interpretação por ferramentas de dados como pacotes do R e do python)
+
+
+
+- se sair da página de edição do recurso, clicar em admin > dataset[draft] ou dataset, clicar no recurso e então no botão MANAGE
+
+
 
 	- metadados obrigatórios das colunas (explicar o por que disso - dicionários de dados legíveis por pessoas e por máquina/json gerados automaticamente permitirão a interpretação do conteúdo sintático dos dados; na primeira vez, parece ser mais repetitivo e toma um trabalho a mais, mas com potenciais benefícios para auxiliar os usuários, que inclui colegas da adm, ou outros poderes, e tb reduzir demandas repetidas - foco na garantia de um padrão de qualidade, interpretação adequada e aumento da possibilidade de uso do dado)
 
-		- nome legível por máquina
+
+		- nome legível por máquina (já vem do arquivo)
 
 		- título legível em português
 
-		- descrição
+		- descrição legivel em português
 
-		- tipo
+		- tipo (inferido automaticamente pela ferramenta)
 
-		- formato
+		- formato (inferido automaticamente pela ferramenta)
 
-		- adicionais (chaves primária e estrangeira; )
+		- required
+		
+		- chaves primária e estrangeira
+		
+		- unique 
 
-		- restrições (extensão, para strings; mínimo e máximo, para numerais; lista)
+		- extras/restrições (extensão, para strings; mínimo e máximo, para numerais; lista exaustiva)
 
 - verificar validação
 
@@ -151,7 +167,7 @@ https://ckan.org/blog/the-ckan-30-team-is-formed-welcome-to-dragan-and-svetozar
 
 - inserir relacionamento entre tabelas
 
-	- metadados de chave primária e estrangeira
+	- metadados de chave primária e estrangeira (muito cuidado com nome da tabela e da coluna)
 
 	- verificar diagrama de entidade-relacionamento
 
