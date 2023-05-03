@@ -1,0 +1,70 @@
+TURMA;DATETIME;NOME;EMAIL;ÓRGÃO
+1;18/04/2023 15:53;Ivana Villefort de Bessa Porto;ivana.porto@arsae.mg.gov.br;ARSAE
+1;18/04/2023 16:00;Érica Rosália de Jesus Parreiras;ericaparreiras@codemge.com.br;CODEMGE
+1;18/04/2023 16:01;Alex Dayrell Bretas Alvarenga Bastos;alex.bastos@agenciarmbh.mg.gov.br;ARMBH
+1;18/04/2023 16:01;Ana Luiza de Aguiar Carneiro;ana.carneiro@der.mg.gov.br;DEER
+1;18/04/2023 16:08;Yan Andrade Matos;yan.matos@advocaciageral.mg.gov.br;AGE
+1;18/04/2023 16:10;Ana Raquel Rodrigues da Cruz;anaraquelr@gmail.com;FAPEMIG
+1;18/04/2023 16:11;Paulo Guilherme Santos Maia;paulo.maia@advocaciageral.mg.gov.br;AGE
+1;18/04/2023 16:44;Patrícia Sanglard Fadlallah;patriciafadlallah@codemge.com.br;CODEMGE
+1;18/04/2023 16:45;Rosa Maria Cruz Laender Costa;rosa.laender@meioambiente.mg.gov.br;FEAM
+1;18/04/2023 16:58;Vitor César Martins da Silva;vitor.cesar@bombeiros.mg.gov.br;CBMMG
+1;18/04/2023 17:14;Luísa De-Lazzari Bicalho Peixoto Resende;luisa.resende@esp.mg.gov.br;ESP
+1;18/04/2023 17:25;Almir da Conceição Ferreira;almirferreira@fapemig.br;FAPEMIG
+1;19/04/2023 11:45;Karine Dias da Silva Prata Marques;karine.marques@meioambiente.mg.gov.br;FEAM
+1;19/04/2023 13:03;Danúbia Luana Ramos;danubia.ramos@funed.mg.gov.br;FUNED
+1;20/04/2023 15:58;RAFAEL MIRANDA ALVES PEREIRA;RAFAEL.PEREIRA@CTL.MG.GOV.BR;CTL
+1;24/04/2023 21:00;MÔNICA PIRES VENTURA;monica.ventura@cohab.mg.gov.br;COHAB
+1;25/04/2023 14:00;Thiago Luis de Oliveira Pacheco de Souza;thiago.souza@bombeiros.mg.gov.br;CBMMG
+1;27/04/2023 09:56;Thamyres Fernnanda Brei Gil Barros;thamyres.fernnanda@fhemig.mg.gov.br;FHEMIG
+1;27/04/2023 10:50;Júlia Selani Rodrigues Silva Melo;julia.melo@esp.mg.gov.br;ESP
+2;18/04/2023 15:59;Flávia Alves Figueirêdo Souza;flavia.figueiredo@secult.mg.gov.br;SECULT
+2;18/04/2023 16:00;Cristiano Ozório Pereira Alcântara;cristiano.ozorio@desenvolvimento.mg.gov.br;SEDE
+2;18/04/2023 16:02;Vladimir Rabelo Lobato e Silva;vladimir.lobato@meioambiente.mg.gov.br;IGAM
+2;18/04/2023 16:07;Sérgio Augusto Furtado de Mello;sergio.mello@mgipart.com.br;MGI
+2;18/04/2023 16:10;Artur Austin Umbelino;artur.austin@hemominas.mg.gov.br;HEMOMINAS
+2;18/04/2023 16:16;Luísa Souza Costa;luisa.costa@educacao.mg.gov.br;SEE
+2;18/04/2023 16:33;Cristilaine Héllen Ribeiro Azevedo;cristilainebh@yahoo.com.br;MGI
+2;18/04/2023 16:39;Mariana Zeymer Mata Machado Pereira;mariana.zeymer@desenvolvimento.mg.gov.br;SEDE
+2;18/04/2023 16:58;JULIANA MARON FERREIRA;juliana.maron@ouvidoriageral.mg.gov.br;OGE
+2;18/04/2023 17:47;Juliana Pessoa Pinheiro de Azevedo;juliana.pessoa@hemominas.mg.gov.br;HEMOMINAS
+2;19/04/2023 08:39;Roberto Maximiro dos Santos Pinto;roberto.maximiro@ouvidoriageral.mg.gov.br;OGE
+2;19/04/2023 09:49;Vander Policarpo Moreira;vanderpolicarpomoreira@gmail.com;SEAPA
+2;19/04/2023 10:29;Cyntia Botelho Valle;cyntia.valle@loteriamineira.mg.gov.br;LEMG
+2;19/04/2023 11:52;Marconi Rocha da Silveira;marconi.rocha@meioambiente.mg.gov.br;IGAM
+2;19/04/2023 17:41;CARLOS ALBERTO CARVALHO;carlos.carvalho@jucemg.mg.gov.br;JUCEMG
+2;25/04/2023 09:59;juliana costa chaves;juliana.chaves@meioambiente.mg.gov.br;IEF
+2;25/04/2023 14:05;Aristides Milton da Cunha;aristides.cunha@ima.mg.gov.br;IMA
+2;26/04/2023 08:50;Marcius Vinicius Ribeiro da Silva;marcius.silva@prodemge.gov.br;PRODEMGE
+2;27/04/2023 11:29;Bárbara Benevides Torres;barbara.torres@planejamento.mg.gov.br;SEPLAG
+2;28/04/2023 21:55;Saulo de Tarso Gonçalves da Silva Castro;saulotgs@msn.com;PCMG
+2;28/04/2023 21:56;Saulo de Tarso Gonçalves da Silva Castro;saulo@gmail.com;PCMG
+3;18/04/2023 16:26;Fernanda Karla Martins de Oliveira;fernanda.oliveira@planejamento.mg.gov.br;SEPLAG
+3;18/04/2023 16:32;Guilherme Amaral Bernardino;guilherme.bernardino@saude.mg.gov.br;SES
+3;18/04/2023 16:33;Ítalo Mosci Santiago;italosantiago@epamig.br;EPAMIG
+3;18/04/2023 16:47;Vanessa Porto Vial;vanessa.vial@redeminas.mg.gov.br;TV MINAS/EMC
+3;18/04/2023 17:05;Lucas Melo Franco Fainblat;lucas.fainblat@planejamento.mg.gov.br;SEPLAG
+3;19/04/2023 08:46;Thiago Gonzaga Mesquita;thiago.mesquita@saude.mg.gov.br;SES
+3;19/04/2023 09:43;Caroline Cristina dos Santos;caroline.santos@redeminas.mg.gov.br;TV MINAS/EMC
+3;19/04/2023 13:15;Thais Michele Xavier;thais.xavier@social.mg.gov.br;SEDESE
+3;19/04/2023 17:58;Antonio Ferreira de Araujo Junior;antonio.araujo@uemg.br;UEMG
+3;20/04/2023 01:51;Carolina Guimarães Moreira Pagnan;carolina.pagnan@epamig.br;EPAMIG
+3;20/04/2023 11:01;Bárbara de Sales Faria;barbara.sales@planejamento.mg.gov.br;SEPLAG
+3;24/04/2023 09:58;Lizandro Nei Gualberto;lizandro_nei@yahoo.com;SEJUSP
+3;24/04/2023 15:01;Luísa França de Tassis;luisa.tassis@uemg.br;UEMG
+3;24/04/2023 15:15;Nayara Batista Pereira Rocha;nayara.pereira@meioambiente.mg.gov.br;SEMAD
+3;24/04/2023 15:25;Carolina Guimarães Moreira Pagnan;carolina.pagnan@epamig.br;EPAMIG
+3;24/04/2023 16:45;Raphaela Hytomi Pianchão Aihara;raphaela.aihara@governo.mg.gov.br;SEGOV
+3;24/04/2023 16:46;Giovanni Alphonsus de Guimaraens;giovanni.alphonsus@governo.mg.gov.br;SEGOV
+3;24/04/2023 17:14;Tiago Campos Silva;tiago.campos@saude.mg.gov.br;SES
+3;25/04/2023 09:35;Geralda de Fátima dos Santos leite;fatima.santos@utramig.mg.gov.br;UTRAMIG
+3;25/04/2023 15:52;Andréa Aparecida de Jesus da Cruz;andrea.cruz@utramig.mg.gov.br;UTRAMIG
+3;26/04/2023 15:39;Gustavo Henrique Medeiros Resende;gustavo.resende@meioambiente.mg.gov.br;SEMAD
+3;26/04/2023 17:29;Karina Teixeira Ribeiro;karina.ribeiro@planejamento.mg.gov.br;SEPLAG
+3;26/04/2023 17:30;Marcus Thadeu Oliveira Campos;marcus.campos@planejamento.mg.gov.br;SEPLAG
+3;27/04/2023 07:23;Márcio Adriano de Assis Gonçalves;marcio.assis@planejamento.mg.gov.br;SEPLAG
+3;27/04/2023 07:55;Júlia Freitas Alves da Costa;julia.freitas@planejamento.mg.gov.br;SEPLAG
+3;27/04/2023 08:57;Vinícius Alcântara Gonçalves;vinicius.goncalves@planejamento.mg.gov.br;SEPLAG
+3;28/04/2023 08:04;David Wayllon Castro Santos;x16923469@ca.mg.gov.br;SEPLAG
+3;28/04/2023 16:19;Júlia Freitas Alves da Costa;julia.freitas@planejamento.mg.gov.br;SEPLAG
+3;28/04/2023 17:15;Ana Paula Valladão Ferreira;ana.valladao@planejamento.mg.gov.br;SEPLAG
