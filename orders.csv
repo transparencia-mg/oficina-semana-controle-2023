@@ -1,4 +1,4 @@
-id,user_id,produto
-1,4,Caneta
+item,user_id,produto
+1,2,Caneta
 2,5,Caderno
-3,6,Escova
+3,1,Escova
