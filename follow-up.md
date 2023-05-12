@@ -8,7 +8,7 @@ Foi também uma chance de conhecer um pouco das bases disponíveis e consequente
 
 Sobre a capacitação em si, a **apresentação realizada** pode ser acessada [aqui](https://github.com/transparencia-mg/oficina-semana-controle-2023/raw/main/oficina-maio%20(1).pptx).
 O **Manual de Dados Abertos** está [nesta página](https://transparencia-mg.github.io/manual-dados-mg/0.1/). Ele é uma versão sujeita a modificações, que podem vir de dúvidas e sugestões. Há uma caixa de diálogo no final de cada página deste site para poder fazer comentários!
-E, por falar em dúvidas e sugestões, gostaríamos de ouvir de você um feedback sobre nossa oficina! Disponibilizamos [este formulário]() para sabermos um pouco sobre isso. Não leva 5 minutos e será muito importante para termos elementos para planejar e conduzir as próximas ações relacionadas a esse tema. 
+E, por falar em dúvidas e sugestões, **gostaríamos de ouvir de você um feedback sobre nossa oficina! Disponibilizamos [este formulário](https://docs.google.com/forms/d/e/1FAIpQLSeghat8n8WLFxfCYTQssP3dgDjLMNVwlno_VAxRmbk7V4JM2w/viewform) para sabermos um pouco sobre isso**. Não leva 5 minutos e será muito importante para termos elementos para planejar e conduzir as próximas ações relacionadas a esse tema. 
 
 Dando seguimento ao nosso fluxo, estamos à disposição para interagir sobre as bases de interesse coletivo e geral que já estejam identificadas e possam ser preparadas e documentadas para publicação. 
 O próprio **[Portal de Dados Abertos de MG/PdA](https://dados.mg.gov.br)** nos oferece dezenas de exemplos de conjuntos de dados que podem ser utilizados como referência para o trabalho de documentação.
